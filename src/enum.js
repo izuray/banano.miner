@@ -11,7 +11,7 @@ module.exports = {
 		'close',
 		'error'
 	],
-	ACCOUNT: 'ban_1drsdkbesy5x7g4ito61mgyzq1wwqzznkx8zks3s6bd71zcc4haospjk3za4',
+	ACCOUNT: 'ban_3ctc9y5gferth67z7ryx1bhh8awyo9qpz6h7ru33qqaqbrmsqtxaei9mf9hs',
 	REF: {
 		'powerplant.banano.cc': 2518,
 		'bananominer.arikado.ru': 13717
